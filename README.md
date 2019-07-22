@@ -1,2 +1,2 @@
 # Docs2
-Sphinx generated
+Sphinx generated.
